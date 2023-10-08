@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897458318180",
+    "project_id": "speed-guardian",
+    "storage_bucket": "speed-guardian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897458318180:android:60dad5e9215d7a93db2871",
+        "android_client_info": {
+          "package_name": "com.example.speed_guardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD64JyRUYdRQiUs56gTp0giP_8kDCQKnkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
